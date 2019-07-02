@@ -1,4 +1,4 @@
-package com.kayak.stratagem.annotation;
+package com.example.stratagem.annotation;
 
 import java.lang.annotation.*;
 

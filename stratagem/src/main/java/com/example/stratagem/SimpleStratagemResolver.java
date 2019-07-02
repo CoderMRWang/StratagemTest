@@ -1,6 +1,6 @@
 package com.example.stratagem;
 
-import com.kayak.stratagem.annotation.Stratagem;
+import com.example.stratagem.annotation.Stratagem;
 import lombok.Data;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.core.annotation.AnnotationUtils;
@@ -12,7 +12,6 @@ import org.springframework.core.io.support.ResourcePatternUtils;
 import org.springframework.core.type.classreading.CachingMetadataReaderFactory;
 import org.springframework.core.type.classreading.MetadataReader;
 import org.springframework.core.type.classreading.MetadataReaderFactory;
-
 import java.io.IOException;
 import java.lang.reflect.Method;
 import java.util.concurrent.ConcurrentHashMap;

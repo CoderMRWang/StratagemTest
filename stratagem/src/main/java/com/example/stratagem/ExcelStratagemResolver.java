@@ -1,7 +1,6 @@
 package com.example.stratagem;
 
 import com.example.pojo.Role;
-import com.example.stratagem.SimpleStratagemResolver;
 import com.example.stratagem.interfaces.Resolver;
 
 import java.io.IOException;
