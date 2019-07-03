@@ -18,6 +18,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/core/AnnotationResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/core/AnnotionResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/core/annotation/AnnotationResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/core/annotation/RegeisterInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/core/annotation/interfaces/RegeisterInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/core/annotation/interfaces/regeisterInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/core/annotation/interfaces/regeistrInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/pojo/Role.java">
           <value>
             <set />
@@ -44,6 +79,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/stratagem/interfaces/Resolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/timing/TimeingResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/timing/Timing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/timing/annotation/Timing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/timing/enums/TimeEnum.java">
           <value>
             <set />
           </value>

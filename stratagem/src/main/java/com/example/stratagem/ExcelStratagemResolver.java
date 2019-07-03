@@ -35,9 +35,13 @@ public class ExcelStratagemResolver extends SimpleStratagemResolver implements R
         Role role=new Role();
         role.setRolename("rule1");
         role.setRoleid("4");
+        Role role1=new Role();
+        role1.setRolename("rule1");
+        role1.setRoleid("1");
         try {
-        ExcelStratagemResolver excelStratagemResolver=new ExcelStratagemResolver();
-           System.out.println(excelStratagemResolver.resolve(role));
+            ExcelStratagemResolver excelStratagemResolver=new ExcelStratagemResolver();
+            System.out.println(excelStratagemResolver.resolve(role));
+            System.out.println(excelStratagemResolver.resolve(role1));
         } catch (InvocationTargetException e) {
             e.printStackTrace();
         } catch (IllegalAccessException e) {
