@@ -103,6 +103,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/timing/pojo/TimingPojo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-auth-service/src/main/java/com/sinosoft/auth/bo/CustomClientDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-auth-service/src/main/java/com/sinosoft/auth/utils/SecurityUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

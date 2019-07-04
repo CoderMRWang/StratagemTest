@@ -1,6 +1,5 @@
 package com.example.core.annotation;
 
-import com.example.stratagem.SimpleStratagemResolver;
 import org.springframework.core.io.DefaultResourceLoader;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
@@ -9,7 +8,6 @@ import org.springframework.core.io.support.ResourcePatternUtils;
 import org.springframework.core.type.classreading.CachingMetadataReaderFactory;
 import org.springframework.core.type.classreading.MetadataReader;
 import org.springframework.core.type.classreading.MetadataReaderFactory;
-
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -24,20 +22,18 @@ import java.util.List;
  * @modify By:
  */
 public class AnnotationResolver {
+    private static final AnnotationResolver instance=new AnnotationResolver();
     private ResourceLoader resourceLoader = new DefaultResourceLoader();
     private List<String> registerList = new ArrayList<>();
 
-    AnnotationResolver() throws IOException, ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
-        this.getAllClass();
+    AnnotationResolver(){
+        try {
+            this.getAllClass();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
-    public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
-        AnnotationResolver annotationResolver = new AnnotationResolver();
-        System.out.println(SimpleStratagemResolver.stratagemMap);
-        System.out.println(SimpleStratagemResolver.stratagemMethod);
-        System.out.println(annotationResolver.registerList);
-
-    }
 
     private void getAllClass() throws IOException, ClassNotFoundException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
         ResourcePatternResolver resolver = ResourcePatternUtils.getResourcePatternResolver(resourceLoader);
@@ -88,4 +84,9 @@ public class AnnotationResolver {
             regeister.invoke(instance, invoke);
         }
     }
+    public static AnnotationResolver getInstance(){
+        return instance;
+    }
+
+
 }

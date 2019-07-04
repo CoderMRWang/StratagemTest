@@ -1,5 +1,7 @@
 package com.example.timing.enums;
 
+import lombok.Data;
+
 /**
  * @author : wanghaotian
  * @despriction :
@@ -13,5 +15,21 @@ public enum TimeEnum {
     TimeEnum(String name,long rate){
         this.name=name;
         this.rate=rate;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public long getRate() {
+        return rate;
+    }
+
+    public void setRate(long rate) {
+        this.rate = rate;
     }
 }

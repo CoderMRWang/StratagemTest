@@ -10,9 +10,9 @@ import java.lang.annotation.*;
  * @date : Created in 2019/7/2
  * @modify By:
  */
-@Target(value= ElementType.ANNOTATION_TYPE)
+@Target(value= ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 public @interface Timing {
-    TimeEnum type();
+    TimeEnum type() default  TimeEnum.MS;
 }

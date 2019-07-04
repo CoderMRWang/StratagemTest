@@ -2,6 +2,7 @@ package com.example.stratagem;
 
 import com.example.core.annotation.RegeisterInterface;
 import com.example.stratagem.annotation.Stratagem;
+import com.example.timing.annotation.Timing;
 import lombok.Data;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.core.annotation.AnnotationUtils;
@@ -44,7 +45,6 @@ public class SimpleStratagemResolver implements RegeisterInterface {
         }
     }
 
-
     @Override
     public void regeister(Class<?> modelClass) {
         Method methods[] = modelClass.getMethods();
@@ -66,10 +66,8 @@ public class SimpleStratagemResolver implements RegeisterInterface {
 
         }
     }
-//    public static SimpleStratagemResolver getInstance(){
-//        return InnerClass.newInstance;
-//    }
-//    private static class InnerClass{
-//        private static final SimpleStratagemResolver newInstance=new SimpleStratagemResolver();
-//    }
+    @Timing
+    public int Test(){
+        return 1;
+    }
 }
