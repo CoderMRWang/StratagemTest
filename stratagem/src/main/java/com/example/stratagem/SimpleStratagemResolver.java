@@ -2,6 +2,7 @@ package com.example.stratagem;
 
 import com.example.core.annotation.RegeisterInterface;
 import com.example.stratagem.annotation.Stratagem;
+import com.example.stratagem.interfaces.Resolver;
 import com.example.timing.annotation.Timing;
 import lombok.Data;
 import org.apache.commons.lang3.StringUtils;
@@ -20,7 +21,7 @@ import java.util.concurrent.ConcurrentMap;
  * @modify By:
  */
 @Data
-public class SimpleStratagemResolver implements RegeisterInterface {
+public abstract class SimpleStratagemResolver implements RegeisterInterface, Resolver {
     public static ConcurrentMap<String, String> stratagemMap = new ConcurrentHashMap();
     public static ConcurrentMap<String, Method> stratagemMethod = new ConcurrentHashMap();
     private ResourceLoader resourceLoader = new DefaultResourceLoader();

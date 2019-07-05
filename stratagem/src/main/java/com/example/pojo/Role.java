@@ -5,6 +5,7 @@ package com.example.pojo;
  * @despriction :
  * @date : Created in 2019/7/2
  * @modify By:
+ * 测试类
  */
 
 public class Role {

@@ -7,6 +7,7 @@ import java.lang.annotation.*;
  * @despriction :
  * @date : Created in 2019/7/2
  * @modify By:
+ * 所有策略解耦注解
  */
 @Target(ElementType.METHOD )
 @Retention(RetentionPolicy.RUNTIME)

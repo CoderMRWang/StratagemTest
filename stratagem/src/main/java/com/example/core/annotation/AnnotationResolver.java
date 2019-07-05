@@ -20,6 +20,7 @@ import java.util.List;
  * @despriction :
  * @date : Created in 2019/7/2
  * @modify By:
+ * 所有自定义注解解析的父类
  */
 public class AnnotationResolver {
     private static final AnnotationResolver instance=new AnnotationResolver();
