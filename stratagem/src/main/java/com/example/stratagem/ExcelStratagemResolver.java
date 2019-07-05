@@ -17,7 +17,7 @@ import java.lang.reflect.Method;
  * @date : Created in 2019/7/2
  * @modify By:
  */
-public class ExcelStratagemResolver extends SimpleStratagemResolver  {
+public class ExcelStratagemResolver extends SimpleStratagemResolver implements Resolver {
 
     public ExcelStratagemResolver() throws IOException, ClassNotFoundException {
     }

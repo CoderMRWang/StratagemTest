@@ -23,7 +23,9 @@ import java.util.concurrent.ConcurrentMap;
 @Data
 public class TimeingResolver implements RegeisterInterface {
     public static ConcurrentMap<Class, Object> methodMap = new ConcurrentHashMap();
-
+/**
+ * 对于计时解析器进行具体逻辑实现
+ * */
     @Override
     public void regeister(Class<?> modelClass) {
         if (!Modifier.isInterface(modelClass.getModifiers())) {
