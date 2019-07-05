@@ -11,6 +11,7 @@ import org.springframework.core.annotation.AnnotationUtils;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 import java.math.BigDecimal;
+import java.util.Optional;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
@@ -41,13 +42,12 @@ public class TimeingResolver implements RegeisterInterface {
                         public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
                             Long start = 0L;
                             if (omethod.getName().equals(method.getName())) {
-                                start = System.currentTimeMillis();
+                                start = System.nanoTime();
                                 System.out.println("方法代理执行");
                             }
                             Object object = methodProxy.invokeSuper(o, objects);
                             if (omethod.getName().equals(method.getName())) {
-                                Long end = System.currentTimeMillis();
-                                System.out.println(end - start);
+                                Long end = System.nanoTime();
                                 System.out.println("方法代理完成,耗时:" + new BigDecimal((end - start)).setScale(4).divide(new BigDecimal(rate)) + ",单位:" + type);
                             }
                             return object;

@@ -71,6 +71,7 @@ public class AnnotationResolver {
     }
 
     private void getAllAnnotation(Class<?> modelClass) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException, ClassNotFoundException, InstantiationException {
+
         for (String clazz : registerList) {
             Class regeisterclass = Class.forName(clazz);
             Object instance= regeisterclass.newInstance();

@@ -9,7 +9,7 @@ import lombok.Data;
  * @modify By:
  */
 public enum TimeEnum {
-    MS("毫秒",1),S("秒",1000);
+    MS("毫秒",1000000),S("秒",1000000000),NANOS("微秒",1);
     private String name;
     long rate;
     TimeEnum(String name,long rate){
