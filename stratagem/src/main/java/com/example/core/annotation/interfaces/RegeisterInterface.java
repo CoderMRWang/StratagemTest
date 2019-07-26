@@ -1,4 +1,4 @@
-package com.example.core.annotation;
+package com.example.core.annotation.interfaces;
 
 
 

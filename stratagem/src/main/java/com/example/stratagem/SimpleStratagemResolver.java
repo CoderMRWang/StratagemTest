@@ -1,6 +1,6 @@
 package com.example.stratagem;
 
-import com.example.core.annotation.RegeisterInterface;
+import com.example.core.annotation.interfaces.RegeisterInterface;
 import com.example.stratagem.annotation.Stratagem;
 import com.example.timing.annotation.Timing;
 import lombok.Data;

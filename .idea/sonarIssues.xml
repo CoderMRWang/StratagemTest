@@ -13,6 +13,71 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/excel/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/ExcelConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/ExcelDealFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/ExcelDealResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/ExcelDealResolverFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/ExcelParserFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/ExcelRegisterResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/FileUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/annotation/ExcelConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/annotiation/ExcelConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/core/model/ExcelModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/test/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/test/model/TestExcelModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/stratagem/pom.xml">
           <value>
             <set />
@@ -58,7 +123,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/excel/ExcelConvertResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/excel/ExcelModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/excel/ExcelRegisterResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/excel/ExxcelConvertFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/excel/annotation/ExcelConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/excel/bo/ExcelModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/pojo/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/pool/Pool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/pool/PoolFactroy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/pool/pool.java">
           <value>
             <set />
           </value>
@@ -113,12 +223,72 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../javamtp/JavaConcurrencyPatternInAction/src/io/github/viscent/mtpattern/ch1/JavaThreadAnywhere.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../lis-auth-service/src/main/java/com/sinosoft/auth/bo/CustomClientDetails.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../lis-auth-service/src/main/java/com/sinosoft/auth/utils/SecurityUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/common/check/AbstractCheckFileParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/common/factory/ClientEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/common/factory/FileParserEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/transform/FormatParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/transform/format/TradeMessageFormat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/webservice/impl/BussinessValidatorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/webservice/impl/OldCoreSystemRouterImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/lis/db/TranLogDB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/webservice/services/WebServiceForFinancial.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/webservice/services/WebServiceForFinancialInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/resources/checktemplate/WX0001/Request.xml">
           <value>
             <set />
           </value>

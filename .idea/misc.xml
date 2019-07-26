@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/stratagem/pom.xml" />
+        <option value="$PROJECT_DIR$/excel/pom.xml" />
       </list>
     </option>
   </component>

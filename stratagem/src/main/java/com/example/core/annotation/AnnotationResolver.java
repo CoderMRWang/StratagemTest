@@ -1,5 +1,6 @@
 package com.example.core.annotation;
 
+import com.example.core.annotation.interfaces.RegeisterInterface;
 import org.springframework.core.io.DefaultResourceLoader;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
