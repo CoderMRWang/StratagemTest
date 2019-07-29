@@ -2,7 +2,8 @@ package com.example.excel.test;
 
 import com.example.excel.core.ExcelDealResolverFactory;
 import com.example.excel.test.model.TestExcelModel;
-import lombok.Data;
+
+import java.util.List;
 
 /**
  * @author : wanghaotian
@@ -13,10 +14,15 @@ import lombok.Data;
 
 public class Test {
     public static void main(String[] args) {
-        ExcelDealResolverFactory<TestExcelModel> factory=ExcelDealResolverFactory.newInstance();
-        factory.setFileLocalUrl("excel/test.xlsx");
-        factory.setConvertClass(TestExcelModel.class);
-        System.out.println(factory.getExcelDealResolver().convert());
+        try {
+            ExcelDealResolverFactory<TestExcelModel> factory=ExcelDealResolverFactory.newInstance();
+            factory.setFileLocalUrl("excel/test.xlsx");
+            factory.setConvertClass(TestExcelModel.class);
+            List<TestExcelModel> list = factory.getExcelDealResolver().convert();
+            factory.getExcelDealResolver().parse("excel/parsetest.xlsx", TestExcelModel.class, list);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
 }

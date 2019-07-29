@@ -10,6 +10,7 @@ import lombok.Data;
  */
 @Data
 public class ExcelModel {
+    private String title;
     private int col;
     private Class type;
     private String fiedlName;

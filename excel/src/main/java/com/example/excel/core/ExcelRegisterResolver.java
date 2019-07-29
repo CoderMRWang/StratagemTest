@@ -42,6 +42,7 @@ public class ExcelRegisterResolver<T> {
                         excelModel.setType(excelConvert.type());
                         excelModel.setCol(excelConvert.col());
                         excelModel.setFiedlName(field.getName());
+                        excelModel.setTitle(excelConvert.name());
                         Assert.isTrue(field.getType().equals(excelConvert.type()),
                                 "类:"+clazz.getName()+"属性:"+field.getName()+"强类型不匹配!");
                         excelModels.add(excelModel);
