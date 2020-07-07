@@ -13,7 +13,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Chat/chat-server/src/main/java/cn/sinjinsong/chat/server/ChatServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chat/common/src/main/java/cn/sinjinsong/common/util/ZipUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/excel/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/ExcelApplication.java">
           <value>
             <set />
           </value>
@@ -68,7 +83,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/test/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/test/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel/src/main/java/com/example/excel/test/Xel.java">
           <value>
             <set />
           </value>
@@ -83,7 +108,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/PoliQ/FindKth.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/StratagemApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/Test2Node.java">
           <value>
             <set />
           </value>
@@ -223,6 +258,246 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/utils/ListCopyUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/Test2Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/Test3Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/Test4Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/Test4NodeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/Test5Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/ZeroCopy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/Zingfront.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/java/com/example/zingfront/Zingfront1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stratagem/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/Util.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/LinkedArrayList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/LinkedHashMap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/guava/Future.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/guava/GuavaFutureDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/netty/NettyClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/netty/NettyDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/netty/NettyDiscardHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/netty/NettyOutBoundHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/netty/NettyUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/netty/s.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/nio/NIODemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/timing/TimeingResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/timing/annotation/Timing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/timing/enums/TimeEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/utils/FileUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Util/src/main/java/com/wanghaotian/example/utils/ListCopyUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/DocumentApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/AbstractCheckFileParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/CheckFileParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/CheckFileResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/CheckMessageEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/CheckTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/impl/CheckFileResolverImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/impl/LegalCheckImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/impl/XMLCheckFileParserImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/check/impl/YAMLCheckFileParserImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/factory/CheckFilePaserFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/factory/CheckerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/factory/ClientEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/factory/ClientFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/factory/FileParserEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/document/src/main/java/com/example/document/mapper/ServiceManagerMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../documentcheck/gateway-portal/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../javamtp/JavaConcurrencyPatternInAction/src/io/github/viscent/mtpattern/ch1/JavaThreadAnywhere.java">
           <value>
             <set />
@@ -233,12 +508,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../lis-auth-service/src/main/java/com/sinosoft/auth/security/AuthorizationServerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../lis-auth-service/src/main/java/com/sinosoft/auth/utils/SecurityUtil.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/client/ServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/common/check/AbstractCheckFileParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/common/check/impl/CheckFileResolverImpl.java">
           <value>
             <set />
           </value>
@@ -249,6 +539,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/common/factory/FileParserEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/java/com/sinosoft/access/common/utils/UnmarshallerPool.java">
           <value>
             <set />
           </value>
@@ -289,6 +584,66 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../lis-gateway/gateway-portal/src/main/resources/checktemplate/WX0001/Request.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-khaos/lis-easyscan/src/main/java/com/sinosoft/S.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-khaos/lis-easyscan/src/main/java/com/sinosoft/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-khaos/lis-easyscan/src/main/java/com/sinosoft/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../lis-khaos/lis-easyscan/src/main/java/com/sinosoft/lis/vschema/LRTemplateSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../oauth2lab/lab07/state-param-security/state-oauth2server/src/main/java/io/spring2go/oauth2/oauth2serverstate/OAuth2Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../uid-generator/src/test/resources/uid/mysql.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../utils/.idea/misc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../utils/.idea/modules.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../utils/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../utils/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../utils/src/main/java/com/wanghaotian/example/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../utils/src/main/java/com/wanghaotian/example/utils/FileUtils.java">
           <value>
             <set />
           </value>
